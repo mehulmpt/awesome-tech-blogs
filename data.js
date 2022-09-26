@@ -4255,4 +4255,11 @@ module.exports = [
       "Neovim"
     ],
   },
+  {
+    name: 'Mehul Mohan',
+    description: 'A web developer currently working on making programming more accessible and interactive to everyone in the world.',
+    url: 'https://codedamn.com/news',
+    twitter: '@mehulmpt',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Backend', 'Web Development', 'React', 'Node.js', 'TypeScript', 'Python', 'Git', 'Tech'],
+}
 ];
